@@ -25,6 +25,3 @@ Thumbs.db
 
 # Database files (if not needed)
 *.db
-
-# Chroma database (large files)
-chroma_db/
