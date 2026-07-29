@@ -7,7 +7,8 @@ env/
 __pycache__/
 *.pyc
 
-
+# API Keys
+.env
 
 # Streamlit
 .streamlit/

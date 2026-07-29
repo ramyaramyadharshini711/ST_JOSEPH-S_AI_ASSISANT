@@ -7,3 +7,5 @@ streamlit
 groq
 google-generativeai
 python-dotenv
+torch
+torchvision
