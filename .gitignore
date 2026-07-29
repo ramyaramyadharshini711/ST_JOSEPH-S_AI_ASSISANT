@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API Keys
+.env
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files (if not needed)
+*.db
+
+# Chroma database (large files)
+chroma_db/

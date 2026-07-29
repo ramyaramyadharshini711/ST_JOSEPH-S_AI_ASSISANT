@@ -1,0 +1,9 @@
+# Minimal requirements
+langchain
+langchain-community
+chromadb
+sentence-transformers
+streamlit
+groq
+google-generativeai
+python-dotenv
