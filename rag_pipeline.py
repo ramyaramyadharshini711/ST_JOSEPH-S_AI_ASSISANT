@@ -38,7 +38,11 @@ class RAGPipeline:
         if gemini_api_key and gemini_api_key != "your_gemini_api_key_here":
             try:
                 from google import genai
-                self.gemini_client = genai.Client(api_key=gemini_api_key)
+                genai.configure(api_key=gemini_api_key)
+
+                self.gemini_model = genai.GenerativeModel(
+                    "gemini-2.0-flash"
+                )
                 self.gemini_available = True
                 logger.info("✅ Gemini client initialized")
             except Exception as e:
@@ -60,7 +64,7 @@ class RAGPipeline:
             )
             
             self.retriever = self.vectorstore.as_retriever(
-                search_kwargs={"k": 5}
+                search_kwargs={"k": 8}
             )
             
             logger.info("✅ Vector store loaded successfully")
@@ -73,15 +77,25 @@ class RAGPipeline:
             return None
         
         try:
-            prompt = f"""You are a helpful assistant for St. Joseph's College for Women, Tiruppur.
-Answer the question based ONLY on the context provided. If you don't know, say "I don't have that information."
+           prompt = f"""
+            You are an AI Assistant for St. Joseph's College for Women, Tiruppur.
 
-CONTEXT:
-{context}
+            Answer the user's question using the given context.
 
-QUESTION: {question}
+            Rules:
+            - Use ALL the information available in the context.
+            - If the answer is only partially available, provide the available information.
+            - Do NOT simply reply "I don't have that information" unless the context is completely unrelated.
+            - Keep the answer clear and detailed.
 
-ANSWER:"""
+            Context:
+            {context}
+
+            Question:
+            {question}
+
+            Answer:
+            """
             
             response = self.groq_client.chat.completions.create(
                 messages=[{"role": "user", "content": prompt}],
@@ -100,21 +114,28 @@ ANSWER:"""
 
         try:
             prompt = f"""
-    You are an AI assistant for St. Joseph's College for Women, Tiruppur.
+                You are an AI assistant for St. Joseph's College for Women, Tiruppur.
 
-    Answer ONLY from the provided context.
+                Use all information from the context.
 
-    Context:
-    {context}
+            If part of the answer exists,
+            provide that information.
 
-    Question:
-    {question}
-    """
+            Only say
+            "I don't have information"
+            when nothing relevant exists.
 
-            response = self.gemini_client.models.generate_content(
-                model="gemini-2.0-flash",
-                contents=prompt
-            )
+                You are an AI Assistant for St. Joseph's College for Women, Tiruppur.
+
+            Use the provided context to answer.
+
+            Rules:
+            - Give complete details from the context.
+            - If only part of the answer exists, provide that part.
+            - Do not simply say "I don't have information" unless nothing related exists."""
+
+            response = self.gemini_model.generate_content(prompt)
+            return response.text
 
             return response.text
 
@@ -139,7 +160,9 @@ ANSWER:"""
                     []
                 )
             
-            context = "\n\n".join([doc.page_content for doc in docs])
+             context = "\n\n".join(
+        doc.page_content[:2000] for doc in docs
+)
             
             answer = self.query_gemini(context, question)
 

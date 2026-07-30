@@ -1,3 +1,4 @@
+import shutil
 import os
 import logging
 from dotenv import load_dotenv
@@ -7,12 +8,21 @@ from langchain_community.document_loaders import TextLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
+if os.path.exists("./chroma_db"):
+    shutil.rmtree("./chroma_db")
+
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+def build_vector_store():
 
+    if os.path.exists("./chroma_db"):
+        shutil.rmtree("./chroma_db")
+
+    logger.info("Loading documents...")
+    
 def load_documents():
     docs = []
     kb_folder = "knowledge_base"
@@ -50,9 +60,16 @@ def build_vector_store():
     logger.info(f"Loaded {len(documents)} document(s)")
 
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=200
-    )
+    chunk_size=700,
+    chunk_overlap=150,
+    separators=[
+        "\n\n",
+        "\n",
+        ". ",
+        ", ",
+        " "
+    ]
+)
 
     chunks = splitter.split_documents(documents)
 
