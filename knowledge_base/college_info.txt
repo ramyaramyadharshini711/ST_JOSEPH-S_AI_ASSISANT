@@ -748,3 +748,118 @@ This knowledge base is ready to be used as the foundation for your AI chatbot th
 ---
 
 *Document prepared by Ramya Dharshini B for AI Chatbot project at St. Joseph's College for Women, Tiruppur*
+====================================================================================================
+SOURCE: UG Student Strength Data
+====================================================================================================
+
+UNDERGRADUATE (UG) STUDENT STRENGTH
+
+Department: BA English
+UG I Year Students: 10
+UG II Year Students: 17
+UG III Year Students: 8
+Total Students: 35
+
+Department: BSc Mathematics
+UG I Year Students: 5
+UG II Year Students: 5
+UG III Year Students: 7
+Total Students: 17
+
+Department: BSc Physics
+UG I Year Students: 1
+UG II Year Students: 2
+UG III Year Students: 2
+Total Students: 5
+
+Department: BSc Chemistry
+UG I Year Students: 3
+UG II Year Students: 0
+UG III Year Students: 4
+Total Students: 7
+
+Department: BSc Costume Design and Fashion (CDF)
+UG I Year Students: 29
+UG II Year Students: 25
+UG III Year Students: 22
+Total Students: 76
+
+Department: B.Com
+UG I Year Students: 15
+UG II Year Students: 15
+UG III Year Students: 25
+Total Students: 55
+
+Department: B.Com (CBA)
+UG I Year Students: 15
+UG II Year Students: 15
+UG III Year Students: 21
+Total Students: 51
+
+Department: B.Com (PA)
+UG I Year Students: 37
+UG II Year Students: 16
+UG III Year Students: 22
+Total Students: 75
+
+Department: B.Com (CA)
+UG I Year Students: 60
+UG II Year Students: 59
+UG III Year Students: 49
+Total Students: 168
+
+Department: BBA
+UG I Year Students: 21
+UG II Year Students: 12
+UG III Year Students: 12
+Total Students: 45
+
+Department: BSc Computer Science (CS)
+UG I Year Students: 27
+UG II Year Students: 25
+UG III Year Students: 14
+Total Students: 66
+
+Department: BSc Computer Science with Data Analytics (CS/DA)
+UG I Year Students: 33
+UG II Year Students: 15
+UG III Year Students: 29
+Total Students: 77
+
+Department: BSc Artificial Intelligence and Machine Learning (AI/ML)
+UG I Year Students: 37
+UG II Year Students: 35
+UG III Year Students: 17
+Total Students: 89
+
+Department: Bachelor of Computer Applications (BCA)
+UG I Year Students: 20
+UG II Year Students: 33
+UG III Year Students: 30
+Total Students: 83
+
+====================================================================================================
+SOURCE: PG Student Strength Data
+====================================================================================================
+
+POSTGRADUATE (PG) STUDENT STRENGTH
+
+Department: MSc Mathematics
+PG I Year Students: 1
+PG II Year Students: 1
+Total Students: 2
+
+Department: MSc Computer Science
+PG I Year Students: 8
+PG II Year Students: 12
+Total Students: 20
+
+Department: M.Com
+PG I Year Students: 6
+PG II Year Students: 16
+Total Students: 22
+
+Department: M.Com CA
+PG I Year Students: 20
+PG II Year Students: 21
+Total Students: 41

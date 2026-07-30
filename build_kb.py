@@ -81,4 +81,4 @@ def build_vector_store():
 
 if __name__ == "__main__":
     build_vector_store()
-    print("Knowledge Base Built Successfully!")
+    print("Knowledge Base Built Successfully!") 
