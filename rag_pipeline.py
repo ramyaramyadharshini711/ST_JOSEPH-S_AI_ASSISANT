@@ -64,7 +64,7 @@ class RAGPipeline:
             )
             
             self.retriever = self.vectorstore.as_retriever(
-                search_kwargs={"k": 8}
+                search_kwargs={"k": 15}
             )
             
             logger.info("✅ Vector store loaded successfully")
