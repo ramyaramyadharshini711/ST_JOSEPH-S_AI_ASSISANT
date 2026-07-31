@@ -155,9 +155,9 @@ class RAGPipeline:
                     "📚 No sources",
                     []
                 )
-                context = "\n\n".join(
-                    doc.page_content[:2000] for doc in docs
-                )
+            context = "\n\n".join(
+                doc.page_content[:2000] for doc in docs
+            )
             
             answer = self.query_gemini(context, question)
 
