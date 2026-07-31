@@ -64,7 +64,7 @@ class RAGPipeline:
             )
             
             self.retriever = self.vectorstore.as_retriever(
-                search_kwargs={"k": 15}
+                search_kwargs={"k": 5}
             )
             
             logger.info("✅ Vector store loaded successfully")
@@ -101,7 +101,7 @@ class RAGPipeline:
                 messages=[{"role": "user", "content": prompt}],
                 model="llama-3.1-8b-instant",
                 temperature=0.3,
-                max_tokens=500
+                max_tokens=250
             )
             return response.choices[0].message.content
         except Exception as e:
@@ -156,7 +156,7 @@ class RAGPipeline:
                     []
                 )
             context = "\n\n".join(
-                doc.page_content[:2000] for doc in docs
+                doc.page_content[:800] for doc in docs
             )
             
             answer = self.query_gemini(context, question)
