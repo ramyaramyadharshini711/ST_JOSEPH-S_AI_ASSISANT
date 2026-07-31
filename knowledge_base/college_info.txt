@@ -870,6 +870,18 @@ AI Chatbot Knowledge Base
 ---
 
 Faculty Details
+Secretary
+
+Name: Rev. Sr. Dr. Arulseeli
+
+Designation: Secretary
+
+Profile:
+Rev. Sr. Dr. Arulseeli serves as the Secretary of St. Joseph's College for Women, Tiruppur. 
+She is committed to empowering women through quality and holistic education. 
+She emphasizes academic excellence, character building, leadership development, discipline, integrity, and value-based education. 
+Under her guidance, the college strives to provide modern infrastructure, dedicated faculty support, and opportunities for students to excel in academics, co-curricular, and extracurricular activities, preparing them to become responsible and compassionate citizens.
+
 
 Principal
 
@@ -1066,4 +1078,102 @@ Leave
 Visitor Policy
 
 - Visitors are allowed only with prior permission from the college authorities.
+
+
+
+ST. JOSEPH'S COLLEGE FOR WOMEN, TIRUPPUR
+
+UG Courses – Eligibility & Total Fees (3 Years)
+
+Note: The fees mentioned below are the approximate total fees for the complete 3-year UG programme. Hostel, transport, examination and other miscellaneous charges are not included and may be collected separately by the college.
+
+B.A. English Literature
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000
+
+B.B.A.
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹1,05,000
+
+B.C.A.
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹1,05,000
+
+B.Com.
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000 – ₹1,05,000
+
+B.Com. Business Analytics
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000 – ₹1,05,000
+
+B.Com. Professional Accounting
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000 – ₹1,05,000
+
+B.Com. with Computer Applications
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000
+
+B.Sc. Artificial Intelligence & Machine Learning
+
+- Eligibility: Pass in Higher Secondary (Mathematics preferred)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹1,20,000 – ₹1,80,000
+
+B.Sc. Computer Science
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹1,20,000
+
+B.Sc. Computer Science with Data Analytics
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹1,20,000 – ₹1,80,000
+
+B.Sc. Chemistry
+
+- Eligibility: Pass in Higher Secondary (Science Stream)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000
+
+B.Sc. Mathematics
+
+- Eligibility: Pass in Higher Secondary with Mathematics
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000
+
+B.Sc. Physics
+
+- Eligibility: Pass in Higher Secondary with Physics and Mathematics
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000
+
+B.Sc. Psychology
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000
+
+B.Sc. Costume Design and Fashion
+
+- Eligibility: Pass in Higher Secondary (10+2)
+- Duration: 3 Years
+- Total Fees (3 Years): ₹75,000 – ₹1,20,000
 
