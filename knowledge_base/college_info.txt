@@ -882,78 +882,147 @@ She is committed to empowering women through quality and holistic education.
 She emphasizes academic excellence, character building, leadership development, discipline, integrity, and value-based education. 
 Under her guidance, the college strives to provide modern infrastructure, dedicated faculty support, and opportunities for students to excel in academics, co-curricular, and extracurricular activities, preparing them to become responsible and compassionate citizens.
 
+========================================
+PRINCIPAL
+========================================
 
-Principal
+Principal:
+Dr. S. Sahaya Tamil Selvi
 
-- Dr. S. Sahaya Tamil Selvi – Principal
+========================================
+TEACHING DEPARTMENTS
+========================================
 
-Teaching Departments
+Department: Tamil
 
-Department of Tamil
+Head of the Department (HOD):
+Dr. P. Usha
 
-- HOD: Dr. P. Usha
-- Faculty Members: 4
+Faculty Members:
+4
 
-Department of English
+----------------------------------------
 
-- HOD: Dr. R. Rajalakshmi
-- Faculty Members: 7
+Department: English
 
-Department of French
+Head of the Department (HOD):
+Dr. R. Rajalakshmi
 
-- HOD: Ms. A. Thulasimani
-- Faculty Members: 1
+Faculty Members:
+7
 
-Department of Mathematics
+----------------------------------------
 
-- HOD: Ms. D. Mary Rose Mala
-- Faculty Members: 10
+Department: French
 
-Department of Physics
+Head of the Department (HOD):
+Ms. A. Thulasimani
 
-- HOD: Ms. P. Mahalakshmi
-- Faculty Members: 2
+Faculty Members:
+1
 
-Department of Chemistry
+----------------------------------------
 
-- HOD: Ms. P. Viji
-- Faculty Members: 3
+Department: Mathematics
 
-Department of Computer Science
+Head of the Department (HOD):
+Ms. D. Mary Rose Mala
 
-- HOD: Dr. B. Vinothini
-- Faculty Members: 9
+Faculty Members:
+10
 
-Department of Computer Science with Data Analytics
+----------------------------------------
 
-- HOD: Ms. C. Kavitha
-- Faculty Members: 4
+Department: Physics
 
-Department of Computer Applications (BCA)
+Head of the Department (HOD):
+Ms. P. Mahalakshmi
 
-- HOD: Dr. b.nithya
-- Faculty Members: 5
+Faculty Members:
+2
 
-Department of Commerce
+----------------------------------------
 
-- HOD: Dr. S. Valarmathi
-- Faculty Members: 8
+Department: Chemistry
 
-Department of Commerce Business Analytics
+Head of the Department (HOD):
+Ms. P. Viji
 
-- HOD: Dr. S. Valarmathi
-- Faculty Members: 4
+Faculty Members:
+3
 
-Department of Costume Design and Fashion
+----------------------------------------
 
-- HOD: Ms. A. Mobina Begum
-- Faculty Members: 7
+Department: Computer Science
 
-Approximate Total Teaching Staff: 64+
+Head of the Department (HOD):
+Dr. B. Vinothini
 
----
+Faculty Members:
+9
 
-Non-Teaching Staff
+----------------------------------------
+
+Department: Computer Science with Data Analytics
+
+Head of the Department (HOD):
+Ms. C. Kavitha
+
+Faculty Members:
+4
+
+----------------------------------------
+
+Department: Computer Applications (BCA)
+
+Head of the Department (HOD):
+Dr. B. Nithya
+
+Faculty Members:
+5
+
+----------------------------------------
+
+Department: Commerce
+
+Head of the Department (HOD):
+Dr. S. Valarmathi
+
+Faculty Members:
+8
+
+----------------------------------------
+
+Department: Commerce Business Analytics
+
+Head of the Department (HOD):
+Dr. S. Valarmathi
+
+Faculty Members:
+4
+
+----------------------------------------
+
+Department: Costume Design and Fashion
+
+Head of the Department (HOD):
+Ms. A. Mobina Begum
+
+Faculty Members:
+7
+
+========================================
+TOTAL TEACHING STAFF
+========================================
+
+Approximate Total Teaching Staff:
+64+
+
+========================================
+NON-TEACHING STAFF
+========================================
+
+The college has the following non-teaching staff:
 
 - Office Superintendent
 - Administrative Office Staff
@@ -970,8 +1039,6 @@ Non-Teaching Staff
 - Drivers
 - Security Staff
 - Housekeeping Staff
-
----
 
 Transport Details
 
