@@ -1083,97 +1083,82 @@ Visitor Policy
 
 ST. JOSEPH'S COLLEGE FOR WOMEN, TIRUPPUR
 
-UG Courses – Eligibility & Total Fees (3 Years)
+UG Courses - Eligibility and Total Fees (3 Years)
 
-Note: The fees mentioned below are the approximate total fees for the complete 3-year UG programme. Hostel, transport, examination and other miscellaneous charges are not included and may be collected separately by the college.
+Note:
+The fees mentioned below are the approximate total fees for the complete 3-year undergraduate programme. Hostel, transport, examination and other miscellaneous charges are not included and may be collected separately by the college.
 
-B.A. English Literature
+Course: B.A. English Literature
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000
+Course: B.B.A.
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 1,05,000
 
-B.B.A.
+Course: B.C.A.
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 1,05,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹1,05,000
+Course: B.Com.
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000 to Rs. 1,05,000
 
-B.C.A.
+Course: B.Com. Business Analytics
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000 to Rs. 1,05,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹1,05,000
+Course: B.Com. Professional Accounting
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000 to Rs. 1,05,000
 
-B.Com.
+Course: B.Com. with Computer Applications
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000 – ₹1,05,000
+Course: B.Sc. Artificial Intelligence and Machine Learning
+Eligibility: Pass in Higher Secondary (Mathematics preferred)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 1,20,000 to Rs. 1,80,000
 
-B.Com. Business Analytics
+Course: B.Sc. Computer Science
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 1,20,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000 – ₹1,05,000
+Course: B.Sc. Computer Science with Data Analytics
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 1,20,000 to Rs. 1,80,000
 
-B.Com. Professional Accounting
+Course: B.Sc. Chemistry
+Eligibility: Pass in Higher Secondary (Science Stream)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000 – ₹1,05,000
+Course: B.Sc. Mathematics
+Eligibility: Pass in Higher Secondary with Mathematics
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000
 
-B.Com. with Computer Applications
+Course: B.Sc. Physics
+Eligibility: Pass in Higher Secondary with Physics and Mathematics
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000
 
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000
+Course: B.Sc. Psychology
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000
 
-B.Sc. Artificial Intelligence & Machine Learning
-
-- Eligibility: Pass in Higher Secondary (Mathematics preferred)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹1,20,000 – ₹1,80,000
-
-B.Sc. Computer Science
-
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹1,20,000
-
-B.Sc. Computer Science with Data Analytics
-
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹1,20,000 – ₹1,80,000
-
-B.Sc. Chemistry
-
-- Eligibility: Pass in Higher Secondary (Science Stream)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000
-
-B.Sc. Mathematics
-
-- Eligibility: Pass in Higher Secondary with Mathematics
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000
-
-B.Sc. Physics
-
-- Eligibility: Pass in Higher Secondary with Physics and Mathematics
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000
-
-B.Sc. Psychology
-
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000
-
-B.Sc. Costume Design and Fashion
-
-- Eligibility: Pass in Higher Secondary (10+2)
-- Duration: 3 Years
-- Total Fees (3 Years): ₹75,000 – ₹1,20,000
-
+Course: B.Sc. Costume Design and Fashion
+Eligibility: Pass in Higher Secondary (10+2)
+Duration: 3 Years
+Total Fees (3 Years): Rs. 75,000 to Rs. 1,20,000
