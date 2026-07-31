@@ -77,7 +77,7 @@ class RAGPipeline:
             return None
         
         try:
-           prompt = f"""
+            prompt = f"""
             You are an AI Assistant for St. Joseph's College for Women, Tiruppur.
 
             Answer the user's question using the given context.
@@ -114,29 +114,25 @@ class RAGPipeline:
 
         try:
             prompt = f"""
-                You are an AI assistant for St. Joseph's College for Women, Tiruppur.
-
-                Use all information from the context.
-
-            If part of the answer exists,
-            provide that information.
-
-            Only say
-            "I don't have information"
-            when nothing relevant exists.
-
                 You are an AI Assistant for St. Joseph's College for Women, Tiruppur.
 
-            Use the provided context to answer.
+                Use the provided context to answer the user's question.
 
-            Rules:
-            - Give complete details from the context.
-            - If only part of the answer exists, provide that part.
-            - Do not simply say "I don't have information" unless nothing related exists."""
+                Rules:
+                - Give complete details from the context.
+                - If only part of the answer exists, provide that part.
+                - Do not say "I don't have information" unless nothing relevant exists.
+
+                Context:
+                {context}
+
+                Question:
+                {question}
+
+                Answer:
+                """
 
             response = self.gemini_model.generate_content(prompt)
-            return response.text
-
             return response.text
 
         except Exception as e:
@@ -159,10 +155,9 @@ class RAGPipeline:
                     "📚 No sources",
                     []
                 )
-            
-             context = "\n\n".join(
-        doc.page_content[:2000] for doc in docs
-)
+                context = "\n\n".join(
+                    doc.page_content[:2000] for doc in docs
+                )
             
             answer = self.query_gemini(context, question)
 
