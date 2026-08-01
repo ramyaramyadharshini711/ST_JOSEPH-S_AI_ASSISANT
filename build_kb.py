@@ -60,7 +60,7 @@ def build_vector_store():
     logger.info(f"Loaded {len(documents)} document(s)")
 
     splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1200,
+    chunk_size=1000,
     chunk_overlap=250,
     separators=[
         "\n\n",
