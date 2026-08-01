@@ -53,7 +53,7 @@ box-shadow:0 8px 20px rgba(0,0,0,.25);
 
 .header h1{
 
-color:white;
+color:#1F5E3B;
 
 margin:0;
 
@@ -65,7 +65,7 @@ font-weight:700;
 
 .header p{
 
-color:#F8F8F8;
+color:#2E7D32;
 
 margin-top:8px;
 
@@ -577,7 +577,7 @@ st.markdown(
 
 <hr style="border:1px solid #334155">
 
-<h3 style="color:white;">
+<h3 style="color:#1F5E3B;">
 🏛 St. Joseph's College for Women
 </h3>
 
