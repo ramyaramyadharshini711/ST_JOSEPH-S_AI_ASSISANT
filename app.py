@@ -23,21 +23,21 @@ st.markdown("""
 /* ---------------- MAIN ---------------- */
 
 .stApp{
-    background:#0F172A;
+    background:#F4F8F2;
 }
 
 /* ---------------- SIDEBAR ---------------- */
 
 section[data-testid="stSidebar"]{
-    background:#111827;
-    border-right:1px solid #374151;
+    background:#1F5E3B;
+    border-right:2px solid #D4AF37;
 }
 
 /* ---------------- HEADER ---------------- */
 
 .header{
 
-background:linear-gradient(135deg,#1E3A8A,#2563EB);
+background:linear-gradient(135deg,#1F5E3B,#2E7D32);
 
 padding:22px;
 
@@ -65,7 +65,7 @@ font-weight:700;
 
 .header p{
 
-color:#CBD5E1;
+color:#F8F8F8;
 
 margin-top:8px;
 
@@ -83,13 +83,13 @@ height:42px;
 
 border-radius:12px;
 
-background:#2563EB;
+background:#1F5E3B;
 
 color:white;
 
 font-weight:bold;
 
-border:none;
+border:2px solid #D4AF37;
 
 transition:0.3s;
 
@@ -119,11 +119,11 @@ margin-bottom:12px;
 
 [data-testid="stChatInput"]{
 
-background:#1E293B;
+background:white;
 
 border-radius:14px;
 
-border:1px solid #334155;
+border:2px solid #1F5E3B;
 
 }
 
@@ -131,11 +131,11 @@ border:1px solid #334155;
 
 [data-testid="stMetric"]{
 
-background:#1E293B;
+background:white;
 
 padding:10px;
 
-border-radius:12px;
+border-radius:2px solid #D4AF37;
 
 }
 
