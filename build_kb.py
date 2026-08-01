@@ -68,32 +68,42 @@ def build_vector_store():
         ". ",
         ", ",
         " "
-    ]
-)
+    ])
 
     chunks = splitter.split_documents(documents)
 
-    logger.info(f"Created {len(chunks)} chunks")
+    # Add metadata to each chunk
+    for chunk in chunks:
+        file_name = os.path.basename(chunk.metadata.get("source", ""))
 
-    logger.info("Loading embedding model...")
+        chunk.metadata.update({
+            "file_name": file_name,
+            "category": file_name.replace(".txt", ""),
+            "source_type": "Knowledge Base"
+        })
 
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
 
-    logger.info("Creating Chroma database...")
+        logger.info(f"Created {len(chunks)} chunks")
 
-    vectorstore = Chroma.from_documents(
-        documents=chunks,
-        embedding=embeddings,
-        persist_directory="./chroma_db"
-    )
+        logger.info("Loading embedding model...")
 
-    vectorstore.persist()
+        embeddings = HuggingFaceEmbeddings(
+            model_name="sentence-transformers/all-MiniLM-L6-v2"
+        )
 
-    logger.info("Knowledge Base Created Successfully!")
+        logger.info("Creating Chroma database...")
 
-    return vectorstore
+        vectorstore = Chroma.from_documents(
+            documents=chunks,
+            embedding=embeddings,
+            persist_directory="./chroma_db"
+        )
+
+        vectorstore.persist()
+
+        logger.info("Knowledge Base Created Successfully!")
+
+        return vectorstore
 
 
 if __name__ == "__main__":
