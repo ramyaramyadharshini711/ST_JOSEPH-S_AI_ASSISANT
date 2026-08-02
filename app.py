@@ -29,7 +29,7 @@ st.markdown("""
 /* ---------------- SIDEBAR ---------------- */
 
 section[data-testid="stSidebar"]{
-    background:#FFFFFF
+    background:#FFFFFF;
     border-right:2px solid #D4AF37;
 }
 
@@ -53,7 +53,7 @@ box-shadow:0 8px 20px rgba(0,0,0,.25);
 
 .header h1{
 
-color:#FFFFFF
+color:#FFFFFF;
 
 margin:0;
 
@@ -65,7 +65,7 @@ font-weight:700;
 
 .header p{
 
-color:#F3F4F6
+color:#F3F4F6;
 
 margin-top:8px;
 
@@ -83,7 +83,7 @@ height:42px;
 
 border-radius:12px;
 
-background:#FFFFFF
+background:#FFFFFF;
 
 color:white;
 
@@ -129,17 +129,7 @@ border:2px solid #1F5E3B;
 
 }
 
-/* ---------------- METRICS ---------------- */
 
-[data-testid="stMetric"]{
-
-background:white;
-
-padding:10px;
-
-border-radius:2px solid #D4AF37;
-
-}
 
 
 /* ---------- SUCCESS / INFO / WARNING ---------- */
@@ -311,21 +301,7 @@ with st.sidebar:
 
     st.markdown("---")
 
-    # ---------------------------
-    # STATISTICS
-    # ---------------------------
-
-    st.subheader("📊 Statistics")
-
-    st.metric(
-        "Messages",
-        len(st.session_state.messages)
-    )
-
-    st.metric(
-        "Quick Questions",
-        len(quick_questions)
-    )
+   
 
     st.markdown("---")
 
