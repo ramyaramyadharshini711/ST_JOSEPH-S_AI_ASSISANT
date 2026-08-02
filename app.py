@@ -23,13 +23,13 @@ st.markdown("""
 /* ---------------- MAIN ---------------- */
 
 .stApp{
-    background:#F4F8F2;
+    background:#121212;
 }
 
 /* ---------------- SIDEBAR ---------------- */
 
 section[data-testid="stSidebar"]{
-    background:#1F5E3B;
+    background:#1E1E2E;
     border-right:2px solid #D4AF37;
 }
 
@@ -37,7 +37,7 @@ section[data-testid="stSidebar"]{
 
 .header{
 
-background:linear-gradient(135deg,#1F5E3B,#2E7D32);
+background:linear-gradient(135deg,#7C3AED,#A855F7);
 
 padding:22px;
 
@@ -83,7 +83,7 @@ height:42px;
 
 border-radius:12px;
 
-background:#1F5E3B;
+background:#7C3AED;
 
 color:white;
 
@@ -97,7 +97,7 @@ transition:0.3s;
 
 .stButton>button:hover{
 
-background:#1D4ED8;
+background:#9333EA;
 
 transform:translateY(-2px);
 
