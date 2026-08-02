@@ -29,7 +29,7 @@ st.markdown("""
 /* ---------------- SIDEBAR ---------------- */
 
 section[data-testid="stSidebar"]{
-    background:#FFFFFF;
+    background:#0D0D0D;
     border-right:2px solid #D4AF37;
 }
 
