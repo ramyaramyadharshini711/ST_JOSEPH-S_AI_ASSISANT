@@ -23,7 +23,7 @@ st.markdown("""
 /* ---------------- MAIN ---------------- */
 
 .stApp{
-    background:white;
+    background:#0D0D0D;
 }
 
 /* ---------------- SIDEBAR ---------------- */
