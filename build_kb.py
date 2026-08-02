@@ -65,7 +65,7 @@ def build_vector_store():
     separators=[
         "\n\n",
         "\n",
-        ". "
+        ". ",
         ", ",
         " "
     ])
