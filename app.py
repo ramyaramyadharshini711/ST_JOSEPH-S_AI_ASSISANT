@@ -558,7 +558,7 @@ st.markdown(
 
 <hr style="border:1px solid #FFFFFF;">
 
-<h3 style="color:#1F5E3B;">
+<h3 style="color:#FFFFFF;">
 🏛 St. Joseph's College for Women
 </h3>
 
