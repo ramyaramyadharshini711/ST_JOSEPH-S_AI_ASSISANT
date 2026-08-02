@@ -1537,3 +1537,326 @@ However, the following information is not publicly available on the official web
 - Salary package details
 - Placement percentage
 - Company-wise recruitment statistics
+
+====================================================
+DEPARTMENT-WISE CLUBS / ASSOCIATIONS & ACHIEVEMENTS
+====================================================
+========================================
+DEPARTMENT: TAMIL
+========================================
+
+ASSOCIATION / CLUB
+
+Tamil Literary Association
+
+ACHIEVEMENTS
+
+- Department conducts various literary activities to improve students' Tamil language skills.
+- Organizes seminars, workshops and special lectures related to Tamil literature and culture.
+- Encourages students to participate in essay writing, poetry, speech and literary competitions.
+- Promotes research interest and creative thinking among students.
+- Conducts cultural and literary events to preserve Tamil heritage.
+- Provides opportunities for students to develop communication and presentation skills.
+
+
+========================================
+DEPARTMENT: ENGLISH
+========================================
+
+ASSOCIATION / CLUB
+
+English Literary Club (ELC)
+
+ACHIEVEMENTS
+
+- Conducts literary activities to improve students' English communication skills.
+- Organizes seminars, workshops and guest lectures by experts.
+- Encourages students to participate in debates, quiz competitions, creative writing and presentations.
+- Conducts language development programmes for improving vocabulary and confidence.
+- Promotes reading habits and creative expression among students.
+- Provides opportunities for students to enhance soft skills and career communication.
+
+
+========================================
+DEPARTMENT: MATHEMATICS
+========================================
+
+ASSOCIATION / CLUB
+
+Mathematics Association
+
+ACHIEVEMENTS
+
+- Organizes mathematical activities to develop logical thinking and problem-solving skills.
+- Conducts seminars and workshops related to mathematical applications.
+- Encourages students to participate in mathematical competitions.
+- Promotes interest in research and higher studies in Mathematics.
+- Provides academic support through innovative teaching and learning activities.
+- Conducts association activities to improve analytical and computational skills.
+
+
+========================================
+DEPARTMENT: PHYSICS
+========================================
+
+ASSOCIATION / CLUB
+
+Physics Association
+
+ACHIEVEMENTS
+
+- Conducts seminars, workshops and awareness programmes related to Physics.
+- Encourages students to understand practical applications of Physics concepts.
+- Provides opportunities for hands-on learning through laboratory activities.
+- Promotes scientific thinking and innovation among students.
+- Organizes academic activities to improve technical knowledge.
+- Encourages students to participate in science exhibitions and competitions.
+
+
+========================================
+DEPARTMENT: CHEMISTRY
+========================================
+
+ASSOCIATION / CLUB
+
+Chemistry Association
+
+ACHIEVEMENTS
+
+- Conducts seminars and workshops related to Chemistry and scientific developments.
+- Provides practical learning through well-equipped laboratory facilities.
+- Encourages students to participate in scientific activities and competitions.
+- Promotes research interest and laboratory skills among students.
+- Organizes awareness programmes related to chemistry applications.
+- Develops analytical and problem-solving skills through practical training.
+
+========================================
+DEPARTMENT: COMPUTER SCIENCE
+========================================
+
+ASSOCIATION / CLUB
+
+Computer Science Association
+
+ACHIEVEMENTS
+
+- Conducts technical seminars, workshops and hands-on training programmes.
+- Organizes coding activities and technical competitions to improve programming skills.
+- Encourages students to learn emerging technologies in Computer Science.
+- Provides practical exposure through computer laboratories and project-based learning.
+- Promotes participation in symposiums, paper presentations and technical events.
+- Conducts skill development programmes related to programming, software tools and IT technologies.
+- Encourages students towards research, innovation and higher studies.
+
+
+========================================
+DEPARTMENT: COMPUTER SCIENCE WITH DATA ANALYTICS
+========================================
+
+ASSOCIATION / CLUB
+
+Data Analytics Association
+
+ACHIEVEMENTS
+
+- Conducts activities related to Data Analytics, programming and emerging technologies.
+- Organizes workshops and training programmes on data analysis tools and techniques.
+- Encourages students to develop analytical thinking and problem-solving skills.
+- Provides exposure to data handling, visualization and technology-based applications.
+- Promotes participation in technical events, seminars and competitions.
+- Supports students in developing industry-oriented technical skills.
+- Encourages innovation and project development in the field of Data Analytics.
+
+
+========================================
+DEPARTMENT: COMPUTER APPLICATIONS (BCA)
+========================================
+
+ASSOCIATION / CLUB
+
+VICTRIX Association
+
+ACHIEVEMENTS
+
+- Established in 2001.
+- Conducts technical workshops and seminars for students.
+- Organizes intercollegiate symposiums and technical events.
+- Provides training in latest computer technologies.
+- Conducts certificate courses in technologies such as Python, PHP, CorelDRAW, Adobe Photoshop and Illustrator.
+- Provides opportunities for students to improve programming and software skills.
+- Encourages web designing skills and entrepreneurship development.
+- Organizes activities to improve technical knowledge, creativity and employability skills.
+- Supports practical learning through well-equipped computer laboratories.
+
+
+========================================
+DEPARTMENT: ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+========================================
+
+ASSOCIATION / CLUB
+
+XPLORSA Association
+
+ACHIEVEMENTS
+
+- Department introduced B.Sc Artificial Intelligence and Machine Learning programme in 2024.
+- Conducts technical seminars, workshops and skill development programmes.
+- Organizes symposiums and academic activities related to Artificial Intelligence.
+- Provides bridge courses for improving students' technical foundation.
+- Conducts certificate courses related to emerging technologies.
+- Certificate Courses:
+  - AI-Powered Robotics: From Sensors to Smart Actions
+  - Artificial Intelligence in Textile Management
+- Encourages students to develop AI-based projects and innovative solutions.
+- Provides exposure to modern AI and Machine Learning concepts.
+- Focuses on industry-oriented skills and career development.
+
+========================================
+DEPARTMENT: COMMERCE
+========================================
+
+ASSOCIATION / CLUB
+
+Commerce Association
+
+ACHIEVEMENTS
+
+- Conducts commerce-related seminars, workshops and guest lectures.
+- Encourages students to develop accounting, financial and management skills.
+- Organizes activities to improve communication and presentation skills.
+- Provides exposure to current trends in commerce and business fields.
+- Encourages students to participate in paper presentations, competitions and academic events.
+- Promotes entrepreneurship development among students.
+- Conducts career-oriented programmes for higher studies and employment opportunities.
+
+
+========================================
+DEPARTMENT: COMMERCE WITH COMPUTER APPLICATIONS
+========================================
+
+ASSOCIATION / CLUB
+
+Sterling Association
+
+ACHIEVEMENTS
+
+- Established in 2011.
+- Conducts activities combining Commerce knowledge with Computer Applications.
+- Organizes seminars, workshops, conferences and webinars.
+- Provides opportunities for students to improve communication skills.
+- Conducts programmes for decision making, teamwork and management skills development.
+- Encourages entrepreneurship and leadership qualities among students.
+- Promotes critical thinking and professional skills.
+- Encourages students to participate in paper presentations and research activities.
+- Provides exposure to technology-based commerce applications.
+
+
+========================================
+DEPARTMENT: COMMERCE BUSINESS ANALYTICS
+========================================
+
+ASSOCIATION / CLUB
+
+Commerce Business Analytics Association
+
+ACHIEVEMENTS
+
+- Conducts academic activities related to commerce and business analytics.
+- Organizes seminars and workshops on current business trends.
+- Encourages students to develop analytical and decision-making skills.
+- Provides exposure to data-driven business solutions.
+- Promotes practical learning through business-related activities.
+- Encourages participation in competitions, presentations and skill development programmes.
+- Helps students understand the application of analytics in commerce and management.
+
+
+========================================
+DEPARTMENT: BUSINESS ADMINISTRATION (BBA)
+========================================
+
+ASSOCIATION / CLUB
+
+Management Association
+
+ACHIEVEMENTS
+
+- Conducts management-oriented seminars and workshops.
+- Organizes activities to develop leadership and entrepreneurship skills.
+- Provides opportunities for students to improve communication and managerial abilities.
+- Encourages students to participate in business competitions and presentations.
+- Promotes practical knowledge in management concepts.
+- Conducts career development programmes for employment opportunities.
+- Develops decision-making, teamwork and organizational skills among students.
+
+========================================
+DEPARTMENT: COSTUME DESIGN AND FASHION (CDF)
+========================================
+
+ASSOCIATION / CLUB
+
+Fashion Design Association
+
+ACHIEVEMENTS
+
+- Conducts activities related to fashion designing, textiles and apparel technology.
+- Organizes workshops and training programmes by industry experts.
+- Provides practical exposure through fashion designing activities.
+- Encourages students to develop creativity and innovative design skills.
+- Conducts exhibitions and fashion-related events.
+- Promotes entrepreneurship skills in the fashion and apparel industry.
+- Provides opportunities for students to showcase their designs and talents.
+- Develops skills in garment designing, textile knowledge and fashion technology.
+
+
+========================================
+DEPARTMENT: FRENCH
+========================================
+
+ASSOCIATION / CLUB
+
+French Association
+
+ACHIEVEMENTS
+
+- Conducts language development activities to improve French communication skills.
+- Organizes cultural activities related to French language and culture.
+- Encourages students to develop foreign language skills.
+- Conducts seminars and special programmes for language enhancement.
+- Provides opportunities for students to improve communication and confidence.
+- Promotes awareness about international languages and cultures.
+
+
+========================================
+DEPARTMENT: COMPUTER SCIENCE (GENERAL ACTIVITIES)
+========================================
+
+ASSOCIATION / CLUB
+
+Computer Science Association
+
+ACHIEVEMENTS
+
+- Conducts technical events and skill development programmes.
+- Organizes workshops on programming and emerging technologies.
+- Encourages students to participate in technical competitions.
+- Provides opportunities for project development and innovation.
+- Promotes practical learning through laboratory activities.
+- Encourages students to improve software development and problem-solving skills.
+
+
+========================================
+DEPARTMENT: SCIENCE DEPARTMENTS (GENERAL ACTIVITIES)
+========================================
+
+ASSOCIATION / CLUB
+
+Science Association
+
+ACHIEVEMENTS
+
+- Organizes science exhibitions, seminars and workshops.
+- Encourages students towards scientific thinking and innovation.
+- Provides practical exposure through laboratory learning.
+- Promotes participation in academic competitions and research activities.
+- Conducts awareness programmes related to science and technology.
+- Develops analytical skills and research interest among students.
