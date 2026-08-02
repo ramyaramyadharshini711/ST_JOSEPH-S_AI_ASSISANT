@@ -55,38 +55,19 @@ To empower women through quality education, fostering academic excellence, moral
 
 ## 🎓 Programmes Offered
 
-### Undergraduate Programmes (UG)
 
-| Department | Programme |
-|------------|-----------|
-| **Arts & Humanities** | B.A. Tamil, B.A. English, B.A. History, B.A. Economics |
-| **Commerce** | B.Com (General), B.Com (CA), B.Com (PA), B.Com (BA) |
-| **Science** | B.Sc. Mathematics, B.Sc. Physics, B.Sc. Chemistry, B.Sc. Botany, B.Sc. Zoology, B.Sc. Computer Science, B.Sc. Information Technology |
-| **Computer Applications** | BCA (Bachelor of Computer Applications) |
-| **Management** | BBA (Bachelor of Business Administration) |
-| **Home Science** | B.Sc. Home Science (Food Science & Nutrition, Textiles & Clothing) |
-| **Social Work** | BSW (Bachelor of Social Work) |
 
-### Postgraduate Programmes (PG)
-
-| Department | Programme |
-|------------|-----------|
-| **Arts** | M.A. Tamil, M.A. English, M.A. History, M.A. Economics |
-| **Commerce** | M.Com, M.Com (CA), M.Com (FA) |
-| **Science** | M.Sc. Mathematics, M.Sc. Physics, M.Sc. Chemistry, M.Sc. Botany, M.Sc. Zoology, M.Sc. Computer Science |
-| **Computer Applications** | MCA (Master of Computer Applications) |
-| **Social Work** | MSW (Master of Social Work) |
-| **Home Science** | M.Sc. Home Science (Food Science & Nutrition) |
-
-### Research Programmes
-- M.SC 
+### PG DEPARTMENTS
+-M.SC MATHS
 -M.Com
-- PHD.Commerce
+-PHD.Commerce
+-M.COM.CA
+-
 - Research centers recognized by Bharathiar University
 
 ---
 
-## 🏫 Departments
+## 🏫 UG DEPARTMENTS
 
 ##department Language
 1. **Department of Tamil**
@@ -856,24 +837,82 @@ AI Chatbot Knowledge Base
 ---
 
 Faculty Details
-Secretary
 
-Name: Rev. Sr. Dr. Arulseeli
 
-Designation: Secretary
+====================================================================================================
+SOURCE: SECRETARY DESK
+====================================================================================================
+
+SECRETARY
+
+Name:
+Rev. Sr. Dr. Arulseeli
+
+Designation:
+Secretary,
+St. Joseph's College for Women, Tiruppur
 
 Profile:
-Rev. Sr. Dr. Arulseeli serves as the Secretary of St. Joseph's College for Women, Tiruppur. 
-She is committed to empowering women through quality and holistic education. 
-She emphasizes academic excellence, character building, leadership development, discipline, integrity, and value-based education. 
-Under her guidance, the college strives to provide modern infrastructure, dedicated faculty support, and opportunities for students to excel in academics, co-curricular, and extracurricular activities, preparing them to become responsible and compassionate citizens.
 
-========================================
+Rev. Sr. Dr. Arulseeli serves as the Secretary of St. Joseph's College for Women, Tiruppur.
+ She is committed to empowering women through quality and holistic education. She emphasizes academic excellence, character building, leadership development, discipline, integrity, and value-based education.
+  Under her guidance, the college provides modern infrastructure, dedicated faculty support, and opportunities for students to excel in academics, co-curricular activities, extracurricular activities, research, innovation, and community service.
+
+Vision:
+
+- Empower women through quality higher education.
+- Promote academic excellence and moral values.
+- Encourage leadership, discipline, and social responsibility.
+- Build confident, compassionate, and responsible citizens.
+
+Key Focus Areas:
+
+- Quality Education
+- Value-Based Learning
+- Student Development
+- Leadership Skills
+- Character Building
+- Academic Excellence
+- Research & Innovation
+- Community Service
+
+
+====================================================================================================
+SOURCE: PRINCIPAL DESK
+====================================================================================================
+
 PRINCIPAL
-========================================
 
-Principal:
+Name:
 Dr. S. Sahaya Tamil Selvi
+
+Designation:
+Principal,
+St. Joseph's College for Women, Tiruppur
+
+Profile:
+
+Dr. S. Sahaya Tamil Selvi serves as the Principal of St. Joseph's College for Women, Tiruppur.
+ She is dedicated to providing quality higher education that promotes academic excellence, discipline, innovation, and holistic student development.
+  Under her leadership, the college encourages research, skill development, value-based education, and community engagement while preparing students to become confident, responsible, and successful professionals.
+
+Vision:
+
+- Provide quality and holistic education for women.
+- Promote academic excellence and lifelong learning.
+- Encourage research, innovation, and creativity.
+- Develop socially responsible and ethical graduates.
+
+Key Focus Areas:
+
+- Academic Excellence
+- Student Empowerment
+- Research & Innovation
+- Skill Development
+- Value-Based Education
+- Leadership Development
+- Community Service
+- Holistic Growth
 
 ========================================
 TEACHING DEPARTMENTS
@@ -1026,11 +1065,41 @@ The college has the following non-teaching staff:
 - Security Staff
 - Housekeeping Staff
 
-Transport Details
+========================================
+LABORATORY FACILITIES
+========================================
+
+St. Joseph's College for Women, Tiruppur provides well-equipped laboratories to enhance practical learning, research, and technical skills.
+
+Laboratories Available:
+
+• Computer Science Laboratory
+• Physics Laboratory
+• Chemistry Laboratory
+• Costume Design and Fashion Laboratory
+• Psychology Laboratory
+• Language Laboratory
+
+Laboratory Features:
+
+- 12 well-equipped laboratories with upgraded equipment.
+- Advanced computer laboratories with high-speed internet and essential software.
+- Research laboratories that support innovation, student projects, and practical learning.
+- Regular maintenance and upgradation of laboratory equipment.
+- Practical sessions are conducted under the guidance of experienced faculty members.
+- Language Laboratory helps students improve communication and spoken English skills.
+- Laboratories provide hands-on learning experience and industry-oriented practical knowledge.
+
+The laboratories are designed to strengthen students' practical knowledge, problem-solving ability, technical competency, and 
+research skills while supporting the academic curriculum of various departments.
+ 
+========================================
+TRANSPORT FACILITY
+========================================
 
 Transport Facility
 
-- College bus facility is available for students and staff.
+The college provides bus transportation facilities for students and staff.
 
 Service Areas
 
@@ -1051,23 +1120,24 @@ Bus Timings
 Transport Fee
 
 - Transport fee is collected separately.
-- Fee depends on the bus route and travelling distance.
+- The fee depends on the bus route and travelling distance.
 
 Eligibility
 
-- All enrolled students can apply for the college bus facility.
+- All enrolled students are eligible to apply for the college bus facility.
 
 Transport Office
+
 Students can contact the College Transport Office for:
 
 - Bus routes
 - Boarding points
-- Timings
+- Bus timings
 - Transport fee details
 
----
-
-Rules & Regulations
+========================================
+RULES & REGULATIONS
+========================================
 
 Attendance
 
@@ -1087,11 +1157,11 @@ Mobile Phones
 
 Punctuality
 
-- Students should report to college and classrooms on time.
+- Students should report to the college and classrooms on time.
 
 Discipline
 
-- Students should maintain discipline and respect faculty members, staff and fellow students.
+- Students should maintain discipline and show respect towards faculty members, staff, and fellow students.
 
 Anti-Ragging
 
@@ -1110,7 +1180,7 @@ Laboratory Rules
 Campus Cleanliness
 
 - Keep the campus clean.
-- Use dustbins for waste disposal.
+- Use dustbins for proper waste disposal.
 
 Examination Rules
 
@@ -1118,11 +1188,11 @@ Examination Rules
 
 Smoking, Alcohol & Drugs
 
-- Smoking, alcohol consumption and drug use are strictly prohibited inside the college campus.
+- Smoking, alcohol consumption, and the use of drugs are strictly prohibited inside the college campus.
 
 Parking
 
-- Vehicles should be parked only in the designated parking area.
+- Vehicles should be parked only in the designated parking areas.
 
 Leave
 
@@ -1134,84 +1204,273 @@ Visitor Policy
 
 
 
-ST. JOSEPH'S COLLEGE FOR WOMEN, TIRUPPUR
-
-UG Courses - Eligibility and Total Fees (3 Years)
+========================================
+UG COURSES - ELIGIBILITY & TOTAL FEES
+========================================
 
 Note:
-The fees mentioned below are the approximate total fees for the complete 3-year undergraduate programme. Hostel, transport, examination and other miscellaneous charges are not included and may be collected separately by the college.
+The fees mentioned below are the approximate total fees for the complete 3-year undergraduate programme. Hostel, transport, examination, and other miscellaneous charges are not included and may be collected separately by the college.
 
-Course: B.A. English Literature
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000
+----------------------------------------
+B.A. English Literature
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
 
-Course: B.B.A.
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 1,05,000
+Duration:
+- 3 Years
 
-Course: B.C.A.
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 1,05,000
+Total Fees:
+- Rs. 75,000
 
-Course: B.Com.
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000 to Rs. 1,05,000
+----------------------------------------
+B.B.A.
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
 
-Course: B.Com. Business Analytics
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000 to Rs. 1,05,000
+Duration:
+- 3 Years
 
-Course: B.Com. Professional Accounting
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000 to Rs. 1,05,000
+Total Fees:
+- Rs. 1,05,000
 
-Course: B.Com. with Computer Applications
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000
+----------------------------------------
+B.C.A.
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
 
-Course: B.Sc. Artificial Intelligence and Machine Learning
-Eligibility: Pass in Higher Secondary (Mathematics preferred)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 1,20,000 to Rs. 1,80,000
+Duration:
+- 3 Years
 
-Course: B.Sc. Computer Science
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 1,20,000
+Total Fees:
+- Rs. 1,05,000
 
-Course: B.Sc. Computer Science with Data Analytics
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 1,20,000 to Rs. 1,80,000
+----------------------------------------
+B.Com.
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
 
-Course: B.Sc. Chemistry
-Eligibility: Pass in Higher Secondary (Science Stream)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000
+Duration:
+- 3 Years
 
-Course: B.Sc. Mathematics
-Eligibility: Pass in Higher Secondary with Mathematics
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000
+Total Fees:
+- Rs. 75,000 – Rs. 1,05,000
 
-Course: B.Sc. Physics
-Eligibility: Pass in Higher Secondary with Physics and Mathematics
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000
+----------------------------------------
+B.Com. Business Analytics
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
 
-Course: B.Sc. Psychology
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000
+Duration:
+- 3 Years
 
-Course: B.Sc. Costume Design and Fashion
-Eligibility: Pass in Higher Secondary (10+2)
-Duration: 3 Years
-Total Fees (3 Years): Rs. 75,000 to Rs. 1,20,000
+Total Fees:
+- Rs. 75,000 – Rs. 1,05,000
+
+----------------------------------------
+B.Com. Professional Accounting
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000 – Rs. 1,05,000
+
+----------------------------------------
+B.Com. with Computer Applications
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000
+
+----------------------------------------
+B.Sc. Artificial Intelligence and Machine Learning
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (Mathematics Preferred)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 1,20,000 – Rs. 1,80,000
+
+----------------------------------------
+B.Sc. Computer Science
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 1,20,000
+
+----------------------------------------
+B.Sc. Computer Science with Data Analytics
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 1,20,000 – Rs. 1,80,000
+
+----------------------------------------
+B.Sc. Chemistry
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (Science Stream)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000
+
+----------------------------------------
+B.Sc. Mathematics
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary with Mathematics
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000
+
+----------------------------------------
+B.Sc. Physics
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary with Physics and Mathematics
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000
+
+----------------------------------------
+B.Sc. Psychology
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000
+
+----------------------------------------
+B.Sc. Costume Design and Fashion
+----------------------------------------
+Eligibility:
+- Pass in Higher Secondary (10+2)
+
+Duration:
+- 3 Years
+
+Total Fees:
+- Rs. 75,000 – Rs. 1,20,000
+
+
+====================================================================================================
+SOURCE: PLACEMENT CELL
+====================================================================================================
+
+PLACEMENT CELL
+
+The Placement Cell of St. Joseph's College for Women, Tiruppur is committed to preparing students for successful careers by bridging the gap between academics and industry. The cell organizes career guidance programmes, placement training, campus recruitment drives, skill development workshops, and industry interaction sessions to enhance students' employability.
+
+========================================
+PLACEMENT ACTIVITIES
+========================================
+
+2023
+
+- Orientation Programme – Artificial Intelligence & Machine Learning (11.08.2023)
+- Career Guidance on Aviation Sector (30.08.2023)
+- Career Guidance on Victory Lander (05.10.2023)
+
+----------------------------------------
+
+2024
+
+- Career Development Programme (11.01.2024)
+- Placement Drive (12.02.2024)
+- Placement Drive (13.02.2024)
+- Placement Drive (01.03.2024)
+- Placement Drive (15.03.2024)
+- LinkedIn Career Kickstarter Programme (24.07.2024)
+- Awareness Programme on Career Opportunities in Civil Services (UPSC & TNPSC) (08.08.2024)
+- Webinar on Cloud Accounting (21.08.2024)
+- Webinar on Artificial Intelligence (23.08.2024)
+- Workshop on Self Employment with Current Trending Skills (30.08.2024)
+- State Level Recruitment Programme – Career Quest 2K24 (24.10.2024)
+- Placement Training Programme (18.12.2024)
+
+----------------------------------------
+
+2025
+
+- Orientation Programme on TNPSC (07.01.2025)
+- Orientation Programme on TNPSC (23.01.2025)
+- Placement Drive (07.02.2025)
+- Placement Drive (27.02.2025)
+- Career Guidance Programme – Opportunities in Government Sector (07.10.2025)
+- Career Guidance Programme – Fueling Dreams with Determination (26.08.2025)
+- Career Guidance Programme – Placement Readiness (01.09.2025)
+- Virtual Placement Drive by Global Quest Technologies (02.09.2025)
+- Career Guidance Programme – Roadmap: From College to Corporate (08.12.2025)
+- Placement Training Programme – Think Tank Meet & Group Discussion (09.12.2025)
+- Communication Skill Development Programme – Communicative Learning for Real Life & Career Growth (10.12.2025)
+
+========================================
+PLACEMENT SERVICES
+========================================
+
+The Placement Cell provides the following services to students:
+
+- Career Guidance
+- Placement Training
+- Resume Building
+- Mock Interviews
+- Soft Skills Development
+- Communication Skills Training
+- Industry Interaction Programmes
+- Internship Support
+- Campus Recruitment Drives
+- Job Fair Coordination
+- Networking Opportunities
+
+========================================
+IMPORTANT NOTE
+========================================
+
+The official college website provides details about placement activities, career guidance programmes, and training sessions conducted by the Placement Cell.
+
+However, the following information is not publicly available on the official website:
+
+- Selected student names
+- Company-wise selected students
+- Salary package details
+- Placement percentage
+- Company-wise recruitment statistics
