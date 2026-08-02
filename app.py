@@ -493,27 +493,7 @@ def process_query(question):
 
             time.sleep(0.02)
 
-        # -----------------------------
-        # Add Sources
-        # -----------------------------
-
-        if len(sources) > 0:
-
-            full_response += "\n\n---"
-
-            full_response += "\n### 📚 Sources"
-
-            for i in range(min(3, len(sources))):
-
-                full_response += f"\n• Document {i+1}"
-
-        # -----------------------------
-        # Model Badge
-        # -----------------------------
-
-        full_response += f"\n\n---"
-
-        full_response += f"\n🤖 **Model:** `{model_used}`"
+        
 
         response_placeholder.markdown(full_response)
 
