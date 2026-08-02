@@ -83,7 +83,7 @@ height:42px;
 
 border-radius:12px;
 
-background:#FFFFFF;
+background:#0D0D0D;
 
 color:white;
 
