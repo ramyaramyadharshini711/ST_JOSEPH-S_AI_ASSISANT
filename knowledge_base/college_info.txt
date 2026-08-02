@@ -834,6 +834,76 @@ ST. JOSEPH'S COLLEGE FOR WOMEN, TIRUPPUR
 
 AI Chatbot Knowledge Base
 
+====================================================================================================
+SOURCE: TOTAL STUDENT STRENGTH
+====================================================================================================
+
+ST. JOSEPH'S COLLEGE FOR WOMEN, TIRUPPUR
+
+TOTAL STUDENT STRENGTH
+
+The total student strength of St. Joseph's College for Women, Tiruppur is 661 students.
+
+========================================
+UNDERGRADUATE (UG) STUDENT STRENGTH
+========================================
+
+Total UG Students: 576
+
+Department-wise UG Student Strength
+
+- BA English : 35 Students
+- B.Sc Mathematics : 17 Students
+- B.Sc Physics : 5 Students
+- B.Sc Chemistry : 7 Students
+- B.Sc Costume Design and Fashion (CDF) : 76 Students
+- B.Com : 55 Students
+- B.Com Business Analytics (CBA) : 51 Students
+- B.Com Professional Accounting (PA) : 75 Students
+- B.Com Computer Applications (CA) : 168 Students
+- BBA : 45 Students
+- B.Sc Computer Science : 66 Students
+- B.Sc Computer Science with Data Analytics : 77 Students
+- B.Sc Artificial Intelligence and Machine Learning (AI & ML) : 89 Students
+- Bachelor of Computer Applications (BCA) : 83 Students
+
+The total Undergraduate (UG) student strength is 576 students.
+
+========================================
+POSTGRADUATE (PG) STUDENT STRENGTH
+========================================
+
+Total PG Students: 85
+
+Department-wise PG Student Strength
+
+- M.Sc Mathematics : 2 Students
+- M.Sc Computer Science : 20 Students
+- M.Com : 22 Students
+- M.Com Computer Applications (CA) : 41 Students
+
+The total Postgraduate (PG) student strength is 85 students.
+
+========================================
+OVERALL COLLEGE STRENGTH
+========================================
+
+Total Undergraduate Students : 576
+
+Total Postgraduate Students : 85
+
+Grand Total Student Strength : 661 Students
+
+If anyone asks:
+
+- What is the total student strength?
+- What is the college strength?
+- How many students are studying in the college?
+- Total number of students in St. Joseph's College for Women, Tiruppur?
+
+The correct answer is:
+
+**The total student strength of St. Joseph's College for Women, Tiruppur is 661 students, consisting of 576 Undergraduate (UG) students and 85 Postgraduate (PG) students.**
 ---
 
 Faculty Details
