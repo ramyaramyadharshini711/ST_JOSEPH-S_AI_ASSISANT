@@ -64,7 +64,7 @@ class RAGPipeline:
             )
             
             self.retriever = self.vectorstore.as_retriever(
-                search_kwargs={"k": 8}
+                search_kwargs={"k": 10}
             )
             
             logger.info("✅ Vector store loaded successfully")
@@ -78,24 +78,26 @@ class RAGPipeline:
         
         try:
             prompt = f"""
-            You are an AI Assistant for St. Joseph's College for Women, Tiruppur.
+                You are an AI Assistant for St. Joseph's College for Women, Tiruppur.
 
-            Answer the user's question using the given context.
+                IMPORTANT RULES:
+                - Answer ONLY from the provided context.
+                - NEVER add, guess, assume or invent any information.
+                - If something is not present in the context, say:
+                "This information is not available in the knowledge base."
+                - Do not use your general knowledge.
+                - Do not add extra courses or departments.
+                - Copy names exactly as they appear in the context.
+                - If the context contains a list, reproduce only that list.
 
-            Rules:
-            - Use ALL the information available in the context.
-            - If the answer is only partially available, provide the available information.
-            - Do NOT simply reply "I don't have that information" unless the context is completely unrelated.
-            - Keep the answer clear and detailed.
+                Context:
+                {context}
 
-            Context:
-            {context}
+                Question:
+                {question}
 
-            Question:
-            {question}
-
-            Answer:
-            """
+                Answer:
+                """
             
             response = self.groq_client.chat.completions.create(
                 messages=[{"role": "user", "content": prompt}],
@@ -156,7 +158,7 @@ class RAGPipeline:
                     []
                 )
             context = "\n\n".join(
-                doc.page_content[:800] for doc in docs
+                doc.page_content for doc in docs
             )
             
             answer = self.query_gemini(context, question)
