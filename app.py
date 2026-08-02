@@ -23,13 +23,13 @@ st.markdown("""
 /* ---------------- MAIN ---------------- */
 
 .stApp{
-    background:#121212;
+    background:white;
 }
 
 /* ---------------- SIDEBAR ---------------- */
 
 section[data-testid="stSidebar"]{
-    background:#1E1E2E;
+    background:#FFFFFF
     border-right:2px solid #D4AF37;
 }
 
@@ -53,7 +53,7 @@ box-shadow:0 8px 20px rgba(0,0,0,.25);
 
 .header h1{
 
-color:#1F5E3B;
+color:#FFFFFF
 
 margin:0;
 
@@ -65,7 +65,7 @@ font-weight:700;
 
 .header p{
 
-color:#2E7D32;
+color:#F3F4F6
 
 margin-top:8px;
 
@@ -83,7 +83,7 @@ height:42px;
 
 border-radius:12px;
 
-background:#7C3AED;
+background:#FFFFFF
 
 color:white;
 
@@ -113,6 +113,8 @@ padding:10px;
 
 margin-bottom:12px;
 
+color:#FFFFFF !important;
+
 }
 
 /* ---------------- CHAT INPUT ---------------- */
@@ -137,6 +139,20 @@ padding:10px;
 
 border-radius:2px solid #D4AF37;
 
+}
+
+
+/* ---------- SUCCESS / INFO / WARNING ---------- */
+
+.stSuccess,
+
+.stInfo,
+
+.stWarning,
+
+.stError{
+    
+    color:#FFFFFF !important;
 }
 
 /* ---------------- HIDE STREAMLIT ---------------- */
@@ -534,48 +550,13 @@ if "quick_question" in st.session_state:
 # FOOTER
 # =====================================================
 
-st.markdown("<br>", unsafe_allow_html=True)
 
-st.divider()
-
-col1, col2, col3 = st.columns(3)
-
-with col1:
-    st.metric(
-        "🏛 College",
-        "SJC"
-    )
-
-with col2:
-
-    if status["vectorstore_loaded"]:
-        st.metric(
-            "📚 Knowledge Base",
-            "Ready"
-        )
-    else:
-        st.metric(
-            "📚 Knowledge Base",
-            "Offline"
-        )
-
-with col3:
-
-    ai_status = "Online" if (
-        status["groq_available"] or
-        status["gemini_available"]
-    ) else "Offline"
-
-    st.metric(
-        "🤖 AI",
-        ai_status
-    )
 
 st.markdown(
 """
-<div style="text-align:center;padding:20px;color:#CBD5E1;">
+<div style="text-align:center;padding:20px;color:#FFFFFF;">
 
-<hr style="border:1px solid #334155">
+<hr style="border:1px solid #FFFFFF;">
 
 <h3 style="color:#1F5E3B;">
 🏛 St. Joseph's College for Women
